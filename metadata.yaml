@@ -1,0 +1,42 @@
+_repo: Five-Mice-in-a-Mouse-trap-by-the-Man-in-the-Moon._29001
+_version: 0.1.0
+alternative_title: 5 Mice in a Mouse-trap, by the Man in the Moon
+contributor:
+  illustrators:
+  - agent_name: Ledyard, Addie
+    gutenberg_agent_id: '33628'
+    url: http://www.gutenberg.org/2009/agents/33628
+  - agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+covers:
+- cover_type: archival
+  image_path: 29001-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: Adventures of five orphaned children who live with their uncle in a small
+  village.
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: Five Mice in a Mouse-trap, by the Man in the Moon.
+url: http://www.gutenberg.org/ebooks/29001
